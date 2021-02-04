@@ -1,16 +1,13 @@
-### Hi there 👋
+#### I'm Dani, a Frontend Developer
 
-<!--
-**danidanida/danidanida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 My current stack: 
 
-Here are some ideas to get you started:
+#### HTML, CSS, Bootstrap, Responsive Web Design, Javascript, ES6, React, Typescript, LESS 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Also, I've been working with Node, REST API, Docker, SQL, PostreSQL and I love server-side (: 
+
+##### 🌱 I learn stuff every day, you can check my progress [here] (https://app.pluralsight.com/profile/bahdana-babkova)
+
+##### 📫  Please feel to [contact me] (https://www.linkedin.com/in/bahdanab/) 
+
+
