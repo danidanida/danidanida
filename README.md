@@ -6,8 +6,6 @@
 
 ### Also, I've been working with Node, REST API, Docker, SQL, PostreSQL and I love server side (: 
 
-#### 🌱 [I learn stuff every day, you can check my progress here](https://app.pluralsight.com/profile/bahdana-babkova)
-
 #### 📫  [Please feel free to contact me](https://www.linkedin.com/in/bahdanab/)
 
 
