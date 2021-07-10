@@ -2,9 +2,9 @@
 
 ### 🔭 My current stack: 
 
-### HTML, CSS, Bootstrap, Responsive Web Design, Javascript, ES6, React, Typescript, LESS 
+### HTML, CSS, Javascript, Typescript, React, Redux 
 
-### Also, I've been working with Node, REST API, Docker, SQL, PostreSQL and I love server side (: 
+### Also, I am familiar with Node.js, REST/GraphQL, SQL 
 
 #### 📫  [Please feel free to contact me](https://www.linkedin.com/in/bahdanab/)
 
